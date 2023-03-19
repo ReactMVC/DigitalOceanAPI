@@ -1,5 +1,5 @@
 {
-    "name": "ocean/api",
+    "name": "myocean/api",
     "description": "A PHP library for interacting with DigitalOcean API",
     "type": "library",
     "version": "1.0.2",
